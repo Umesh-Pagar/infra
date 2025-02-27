@@ -1,0 +1,7 @@
+{
+    "subscription_id": "405b92ea-9996-4799-84aa-32efee0a5031",
+    "resource_group_name": "rg-tech-mobile-dev",
+    "storage_account_name": "stgtechmobiledev",
+    "container_name": "tfstate-container-dev",
+    "key": "terraform.tfstate"
+}
